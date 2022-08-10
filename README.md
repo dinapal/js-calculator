@@ -1,6 +1,9 @@
 ## Javascript Calculator 
 Build a calculator using javascript 
 
+![Javascript Calculator ](/calculator.png)
+
+
 ### Requirements Analysis 
 
 - Create All Number Input table
